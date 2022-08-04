@@ -26,20 +26,20 @@ export default function Home() {
 
         <p style={{paddingLeft: '2rem', paddingTop: '2rem'}}>
           <span style={{color: 'blue'}}>
-            <a href="https://github.com/byte-42/kgraph" target="_blank">kgraph</a>
+            <a href="https://github.com/byte-42/kgraph" rel="noreferrer target="_blank">kgraph</a>
           </span> - yet another graph based note taking app
         </p>
 
         <p style={{paddingLeft: '2rem', paddingTop: '0.25rem'}}>
           <span style={{color: 'blue'}}>
-            <a href="https://github.com/byte-42/redis-explorer" target="_blank">redis explorer</a>
+            <a href="https://github.com/byte-42/redis-explorer" rel="noreferrer target="_blank">redis explorer</a>
           </span> - a lightweight redis gui to quickly search through keys
         </p>
 
         <p style={{paddingLeft: '2rem', paddingTop: '3rem'}}>
           Made by 
           <span style={{color: 'blue'}}>
-            <a href="https://www.linkedin.com/in/anoop-m-d-868099100/" target="_blank">&nbsp;&nbsp;anoop</a>
+            <a href="https://www.linkedin.com/in/anoop-m-d-868099100/" rel="noreferrer target="_blank">&nbsp;&nbsp;anoop</a>
           </span>
         </p>
       </main>
