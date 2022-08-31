@@ -17,7 +17,10 @@ export default function Home() {
         </h1>
 
         <p style={{paddingLeft: '2rem', fontSize: '1.25rem', paddingTop: '1rem'}}>
-          Making the world a better place through open source.
+          A collection of open source projects by
+          <span style={{color: 'blue'}}>
+            <a href="https://www.helloanoop.com" rel="noreferrer" target="_blank">&nbsp;anoop</a>
+          </span>
         </p>
 
         <p style={{paddingLeft: '2rem', paddingTop: '0.25rem', color: '#555'}}>
@@ -34,13 +37,6 @@ export default function Home() {
           <span style={{color: 'blue'}}>
             <a href="https://github.com/byte-42/redis-explorer" rel="noreferrer" target="_blank">redis explorer</a>
           </span> - a lightweight redis gui to quickly search through keys
-        </p>
-
-        <p style={{paddingLeft: '2rem', paddingTop: '3rem'}}>
-          Made by 
-          <span style={{color: 'blue'}}>
-            <a href="https://www.linkedin.com/in/anoop-m-d-868099100/" rel="noreferrer" target="_blank">&nbsp;&nbsp;anoop</a>
-          </span>
         </p>
       </main>
     </div>
